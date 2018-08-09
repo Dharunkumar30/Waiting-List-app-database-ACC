@@ -2,7 +2,7 @@
 
 This is Waiting List app that save waiting list of guest name and number of guests at restaurants.
 It also show's that how to apply validation on number TextView. Here we can not accept number guests more than 100 
-this is limit in this app. **Repository pattern and Thread Pool used **.
+this is limit in this app. **Repository pattern and Thread Pool used**.
 
 ### Note:-
 

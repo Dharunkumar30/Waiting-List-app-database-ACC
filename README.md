@@ -1,4 +1,4 @@
-# Waiting List app database ACC
+# Waiting List app database (ACC or Android Jetpack)
 
 This is Waiting List app that save waiting list of guest name and number of guests at restaurants.
 It also show's that how to apply validation on number TextView. Here we can not accept number guests more than 100 
